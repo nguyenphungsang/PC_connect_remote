@@ -1,0 +1,5 @@
+Master_computer.py (máy chủ)
+Slave_computer.py (máy khách)
+
+-sử dụng Master_computer.py có thể kiểm soát hệ thống có chương trình của Slave_computer.py
+-cả hai máy tính phải kết nối với nhau thông qua cùng một mạng (netID)
